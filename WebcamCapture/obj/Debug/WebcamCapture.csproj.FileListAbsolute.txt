@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\WebcamCapture.exe.config
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\WebcamCapture.exe
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\WebcamCapture.pdb
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.Form1.resources
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.TakePicture.resources
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.exe
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.pdb
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\AForge.dll
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\AForge.Video.dll
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\bin\Debug\DarrenLee.Media.dll
+C:\Users\Administrateur\source\repos\WebcamCapture\WebcamCapture\obj\Debug\WebcamCapture.csproj.CopyComplete
